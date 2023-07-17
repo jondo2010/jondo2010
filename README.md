@@ -1,4 +1,4 @@
-## Hi there 👋 I'm John, a software engineer and Rust 🦀 enthusiast based in Munich.
+## Software engineer and Rust 🦀 enthusiast
 
 I'm particularly interested in things relating to simulation and cyber-physical systems.
 
